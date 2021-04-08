@@ -1,0 +1,1 @@
+Highly experimental Harmony Prefix/Postfix generator for Methods and Properties. It's expected that you already have a decent idea of what you're doing. This code is bad and I am embarassed by it, but this might be useful to someone some day, so there's no real reason to keep it private.
